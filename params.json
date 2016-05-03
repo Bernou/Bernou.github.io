@@ -1,6 +1,6 @@
 {
   "name": "Welcome to Bernou's site",
   "tagline": "不积跬步，无以至千里，不积小流，无以成江海。",
-  "body": "\r\n\r\n\r\n* c \r\n",
+  "body": "\r\n* [##C++ 学习笔记##]()\r\n\r\n* [##python 学习笔记##]()\r\n\r\n* [##生活随笔 ##]()\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
