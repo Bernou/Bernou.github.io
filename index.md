@@ -5,6 +5,8 @@ tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
+#为心爱的姑娘，努力奋斗#
+>> 为你我愿意成为更好的人  
 Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
 Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
