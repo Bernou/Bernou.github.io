@@ -16,18 +16,18 @@ categories: jekyll update
 > >>>谁控制过去，就等于掌控了未来;谁控制着未来，就等于控制了过去。
 
 
-# markdown link #
+*  markdown link
 
 [*hello world*](http://www.google.hk)
 
 
 
-# markdown image #
+* markdown image 
 
 ![](https://static.zhihu.com/static/revved/img/ios/touch-icon-152.87c020b9.png) 
 
 
-# markdown table #
+* markdown table
 
 
  name|age| sex   
@@ -36,7 +36,7 @@ qs|18|nan
 qsj|19| nan  
  
  
-# markdown reference #
+* markdown reference
  
 >    **静夜思**
 >
@@ -48,13 +48,13 @@ qsj|19| nan
 
 
 
-#markdown code#  
-
-	这是单行代码
-	if (x == 2 )
-	{
-		return 0;
-	}
+* markdown code         
+	
+	这是单行代码  
+	if (x == 2 )  
+	{  
+		return 0;  
+	}  
 ______________________________________________
 
 
