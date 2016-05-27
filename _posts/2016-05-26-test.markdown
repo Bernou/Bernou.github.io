@@ -1,12 +1,37 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2016-05-25 10:42:30 -0400
+title:  "markdowm test"
+date:   2016-05-27 10:42:30 -0400
 categories: jekyll update
 ---
 # 名言警句 #
 
 >>谁控制过去，就等于掌控了未来;谁控制着未来，就等于控制了过去。
+
+[hello world](http://www.google.hk)
+
+[!['*知乎*'](https://static.zhihu.com/static/revved/img/ios/touch-icon-152.87c020b9.png)](http://www.zhihu.com)   
+
+ name|age| sex   
+---|---|---  
+ qs|18|nan   
+ qsj|19| nan  
+ 
+ 
+ 
+ >###静夜思
+>
+>    **床前明月光**   
+>    **疑是地上霜**    
+>    **举头望明月**    
+>    **低头思故乡**
+
+
+	`这是单行代码`
+	if (x == 2 )
+	{
+		return 0;
+	}
 
 
 
