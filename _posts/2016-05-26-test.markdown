@@ -6,40 +6,55 @@ categories: jekyll update
 ---
 
 
+
+![](http://i.imgur.com/hWUarKt.jpg)  
+
+
+
 # 名言警句 #
 
->>谁控制过去，就等于掌控了未来;谁控制着未来，就等于控制了过去。
+> >>>谁控制过去，就等于掌控了未来;谁控制着未来，就等于控制了过去。
 
-[**hello world**](http://www.google.hk)
 
-!['*知乎*'](https://static.zhihu.com/static/revved/img/ios/touch-icon-152.87c020b9.png) 
+##markdown link##
+
+[*hello world*](http://www.google.hk)
+
+
+
+##markdown image##
+
+![](https://static.zhihu.com/static/revved/img/ios/touch-icon-152.87c020b9.png) 
+
+
+##markdown table##
+
 
  name|age| sex   
 ---|---|---  
- qs|18|nan   
- qsj|19| nan  
+qs|18|nan  
+qsj|19| nan  
  
  
+##markdown reference##
  
 >    **静夜思**
 >
 >    **床前明月光**   
 >    **疑是地上霜**    
 >    **举头望明月**    
->    **低头思故乡**
+>    **低头思故乡**    
 
+
+
+
+##markdown code  
 
 	这是单行代码
 	if (x == 2 )
 	{
 		return 0;
 	}
-
-
-![](http://i.imgur.com/hWUarKt.jpg)
-
-
-
 ______________________________________________
 
 
