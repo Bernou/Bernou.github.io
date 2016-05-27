@@ -10,7 +10,7 @@ categories: jekyll update
 
 [hello world](http://www.google.hk)
 
-[!['*知乎*'](https://static.zhihu.com/static/revved/img/ios/touch-icon-152.87c020b9.png)](http://www.zhihu.com)   
+!['*知乎*'](https://static.zhihu.com/static/revved/img/ios/touch-icon-152.87c020b9.png) 
 
  name|age| sex   
 ---|---|---  
