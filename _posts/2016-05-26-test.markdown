@@ -10,7 +10,7 @@ categories: jekyll update
 
 >>谁控制过去，就等于掌控了未来;谁控制着未来，就等于控制了过去。
 
-[hello world](http://www.google.hk)
+[**hello world**](http://www.google.hk)
 
 !['*知乎*'](https://static.zhihu.com/static/revved/img/ios/touch-icon-152.87c020b9.png) 
 
@@ -21,7 +21,7 @@ categories: jekyll update
  
  
  
- >###静夜思
+>    **静夜思**
 >
 >    **床前明月光**   
 >    **疑是地上霜**    
@@ -29,11 +29,26 @@ categories: jekyll update
 >    **低头思故乡**
 
 
-	`这是单行代码`
+	这是单行代码
 	if (x == 2 )
 	{
 		return 0;
 	}
+
+
+![](http://i.imgur.com/hWUarKt.jpg)
+
+
+
+______________________________________________
+
+
+
+[***<font color="red">C++ 学习笔记</font>***]()                              
+
+[***<font color="red">python学习笔记</font>***]()
+
+[***<font color="red">生活随笔</font>***]()
 
 
 
