@@ -1,8 +1,7 @@
-
 ---
-layout: post 
-title: test
-date: 2016-05-26 10:42:30 -0400
+layout: post
+title:  "Welcome to Jekyll!"
+date:   2016-05-25 10:42:30 -0400
 categories: jekyll update
 ---
 # 名言警句 #
