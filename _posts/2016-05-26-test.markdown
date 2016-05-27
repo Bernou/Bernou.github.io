@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "test"
+title:  "test!"
 date:   2016-05-25 10:42:30 -0400
 categories: jekyll update
 ---
+
+
 # 名言警句 #
 
 >>谁控制过去，就等于掌控了未来;谁控制着未来，就等于控制了过去。
