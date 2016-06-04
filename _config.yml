@@ -4,6 +4,16 @@
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
+#
+
+permalink: /:year/:month/:day/:title.html   #博文的固定连接
+pageinate: 10                               #分页时每页博文数量
+markdown: redcarpet                         #markdown 解释器
+tags: 标签
+about: 关于
+active: 技术
+locals: 上海
+
 
 # Site settings
 title: Deep in think, Just do it
