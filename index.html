@@ -1,12 +1,24 @@
 ---
 layout: default
 ---
-<body>
-<div class="home">
-  
-  <h1 class="page-heading">Posts</h1>
 
-  <ul class="post-list">
+
+
+<head>
+    <title>imgur: the simple 404 page</title>
+    <meta http-equiv="content-type" content="text/html;charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge;" />
+	<link rel="alternate" type="application/rss+xml" title="Imgur Gallery" href="http://feeds.feedburner.com/ImgurGallery?format=xml" />
+    <link rel="stylesheet" type="text/css" href="http://s.imgur.com/min/404.css?1393899213" />
+    <!--[if IE 9]><link rel="stylesheet" href="//s.imgur.com/include/css/ie-sucks.css?0" type="text/css" /><![endif]-->
+</head>
+
+
+<body>
+	<div class="home">
+	<h1 class="page-heading">Posts</h1>
+
+	<ul class="post-list">
     {% for post in site.posts %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
@@ -16,13 +28,13 @@ layout: default
         </h2>
       </li>
     {% endfor %}
-  </ul>
+	</ul>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-</div>
+	<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+	</div>
 
 
-<div id="hallway">
+	<div id="hallway">
         <div class="container">
             <div id="cat1" class="painting">
                 <img src="//s.imgur.com/images/404/cat1weyes.png">
@@ -78,7 +90,52 @@ layout: default
                 </div>
             </div>
         </div>
- </div>
+	</div>
+    
+    <script type="text/javascript">
+        (function(widgetFactory) { 
+            widgetFactory.mergeConfig('analytics', {
+                isAdmin: false
+            });
+        })(_widgetFactory);
+    </script>
 
+    <script type="text/javascript" src="http://s.imgur.com/min/404.js?1393899213"></script>
+    <script type="text/javascript">
+            var e404 = E404.getInstance();
+            e404.generalInit();
+    </script>
+
+    <script type="text/javascript">
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','__ga');
+
+        __ga('create', 'UA-6671908-2', 'auto');
+        __ga('send', 'pageview');
+    </script>
+
+    <script type='text/javascript'>
+        var _qevents = _qevents || [];
+        (function() {
+        var elem = document.createElement('script');
+        elem.src = (document.location.protocol == "https:" ? "https://secure" : "//edge") + ".quantserve.com/quant.js";
+        elem.async = true;
+        elem.type = "text/javascript";
+        var scpt = document.getElementsByTagName('script')[0];
+        scpt.parentNode.insertBefore(elem, scpt);
+        })();
+
+        _qevents.push({
+            qacct:"p-f8oruOqDFlMeI"
+        });
+    </script>
+
+    <noscript>
+        <div class="nodisplay">
+            <img src="//pixel.quantserve.com/pixel/p-f8oruOqDFlMeI.gif" border="0" height="1" width="1" alt="Quantcast"/>
+        </div>
+    </noscript
 
 </body>
