@@ -4,7 +4,7 @@ title:  "think in union!"
 categories: jekyll update  
 ---
 
-![img](http://pan.baidu.com/disk/home#list/path=%2F)
+![img](http://i.imgur.com/NCzcRVg.jpg)
 # 什么是union #
 
 * union 是c++一种类型,翻译成汉语就是"共用体",从名字我们大概就可以了解到它的大致特点，共用。
@@ -67,3 +67,6 @@ sizeof(union Test) 占用8字节，union成员之前共用同一个内存地址�
     };   
 
 这样我们更新排行的信息，就只要按照排行榜的类型，更新union结构体中的相应的排行数据。
+
+
+![](http://i.imgur.com/apYKYsZ.png)
