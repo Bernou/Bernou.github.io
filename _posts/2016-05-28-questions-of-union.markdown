@@ -4,6 +4,7 @@ title:  "think in union!"
 categories: jekyll update  
 ---
 
+![img](http://pan.baidu.com/disk/home#list/path=%2F)
 # 什么是union #
 
 * union 是c++一种类型,翻译成汉语就是"共用体",从名字我们大概就可以了解到它的大致特点，共用。
