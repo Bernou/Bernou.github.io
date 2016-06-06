@@ -4,6 +4,8 @@ title: markdown 简明教程
 categories: jekyll update
 ---
 
+![doodles](https://www.google.com/logos/doodles/2016/teachers-day-2016-us-6296626244091904.2-hp2x.gif)
+
 # 什么是markdown
 
 markdown 是一种轻量级的标记语言,创始人为约翰-格鲁伯。他允许人们”使用易读写的纯文本格式编写文档，然后转换为有效的XHTML(或HTML)
