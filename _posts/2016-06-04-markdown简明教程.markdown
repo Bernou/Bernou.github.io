@@ -80,7 +80,7 @@ markdown 中允许代码的插入,代码行可以以3个` 对代码段进行包�
          return 0;   
      }  
     
-## **五. 图片**
+## **五. 图片**   
 
 markdown 插入图片也很简单， 它的形式如下 ![] (imgurl)
 
@@ -92,13 +92,13 @@ markdown 插入图片也很简单， 它的形式如下 ![] (imgurl)
 ![知乎](https://pic4.zhimg.com/d38dd09765d51b5d163c555b081eea53_b.jpg)
 
 
-## **六. 链接**
+## **六.链接**          
 
-markdown 的链接也是很简单的 它的形式如下 [](linkurl)
+markdown 的链接也是很简单的 它的形式如下 [](linkurl)    
 
-比如 我们链接进一个谷歌 的地址 
+比如 我们链接进一个谷歌 的地址       
 
-[每一次404,问候一下方校长](https://www.google.com)
+[每一次404,问候一下方校长](https://www.google.com)      
 
 
 
