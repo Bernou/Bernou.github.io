@@ -92,7 +92,7 @@ markdown 插入图片也很简单， 它的形式如下 ![] (imgurl)
 ![知乎](https://pic4.zhimg.com/d38dd09765d51b5d163c555b081eea53_b.jpg)
 
 
-## **六. 链接 **
+## **六. 链接**
 
 markdown 的链接也是很简单的 它的形式如下 [](linkurl)
 
