@@ -43,13 +43,19 @@ TestA 这个类，继承于Test类:
     }        
 
 
-如果有如下的代码调用,它的输出是什么:
-    TestA* pTestA = new Test();    
+如果有如下的代码调用,它的输出是什么:        
+
+
+    TestA* pTestA = new Test();      
     Test* pTest = pTestA;    
-    pTest->Print();
+    pTest->Print();        
+
+
 
 答案是输出 :
-   >> TestA : Hello World  
+   >> TestA : Hello World        
+
+
 因为在上述代码调用中发生代码切片操作，即把子类赋值给父类。但是地址还是指向子类，子类中有实现这个虚函数
 因此调用的是子类的方法。
 
