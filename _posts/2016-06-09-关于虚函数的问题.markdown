@@ -1,0 +1,37 @@
+---
+layout: post   
+title: 关于虚函数的一些思考    
+categories: jekyll update      
+---
+
+
+
+今天是端午节，祝大家端午节快乐!
+
+![phoebe](https://www.google.com/logos/doodles/2016/phoebe-snetsingers-85th-birthday-5179281716019200-hp.gif)
+
+
+c++的三大基本特性，继承，封装和多态。多态就是通过虚函数体现出来的，虚函数允许子类重新定义基类的成员函数。而子类  
+重新定义父类的做法称之为override(覆盖),只有重写了虚函数才能体现出c++的多态特性。
+
+虚函数的写法很简单，就是在函数的声明的最前面加上virtual这个关键字，虚函数是要实现的。
+虚函数编译器是通过虚表指针实现的。
+
+它的写法如下，比我们有一个Test的一个类，他有一虚方法Print:
+
+    class Test   
+    {     
+        public:  
+            virtual void Print()     
+            {      
+                cout<<" Test : Hello World"<<endl;     
+            }     
+    };      
+
+这个Test占多少个字节呢，答案是4个字节，虽然Test没有成员变量，但是因为有虚函数，这个类含有一个隐藏的虚表指针。^-^   
+
+
+TestA 这个类，继承于Test类:
+
+
+
