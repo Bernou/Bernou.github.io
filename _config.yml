@@ -27,3 +27,6 @@ github_username:  Bernou
 
 # Build settings
 markdown: kramdown
+
+#开启分页
+pageinate:5
