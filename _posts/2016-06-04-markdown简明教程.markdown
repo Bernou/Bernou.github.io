@@ -105,7 +105,11 @@ markdown 的链接也是很简单的 它的形式如下 [](linkurl)
 
 比如 我们链接进一个谷歌 的地址       
 
-[每一次404,问候一下方校长](https://www.google.com)      
+[每一次404,问候一下方校长](https://www.google.com) 
+
+:blush:  
+    
+:apple:          
 
 
 
